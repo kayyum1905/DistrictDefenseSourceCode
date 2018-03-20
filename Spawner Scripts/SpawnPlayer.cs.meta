@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 66d17a7522c334e05853a2eff9410e1e
+timeCreated: 1475252424
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redBox: {fileID: 162668, guid: 6b778079a0ffd4cada0d19a956ddbe12, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
